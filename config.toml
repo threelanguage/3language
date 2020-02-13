@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://3language.netlify.com/"
+baseURL = "https://3language.co/"
 languageCode = "en-us"
 title = "3 Language | Learn learn and learn"
 theme = "liva-hugo"
