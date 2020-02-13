@@ -82,7 +82,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "3language"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
@@ -90,7 +90,7 @@ mobile = "082130228822"
 email = "3threelanguage@gmail.com"
 location = "Indonesia"
 # copyright
-copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "| @2019 [3language] (https://3language.co) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
