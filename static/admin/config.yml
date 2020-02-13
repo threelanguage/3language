@@ -12,7 +12,7 @@ collections:
   label: "About" # Used in the UI
   label_singular: 'About' # Used in the UI, ie: "New Post"
     description: >
-      Disini tempat naro biodata atau apapun itulah.. Mau diisi kisah hidup pun tak apa.
+      Disini tempat naro biodata, kisah hidup atau apapun itulah... :D
   folder: "content/about"
   create: false
   slug: "{{slug}}"
@@ -26,8 +26,8 @@ collections:
 
 - name: "blog" # Used in routes, e.g., /admin/collections/blog
   label: "Posts" # Used in the UI
-  label_singular: 'posts' # Used in the UI, ie: "New Post"
-    description: >
+  label_singular: 'post' # Used in the UI, ie: "New Post"
+  description: >
       Halaman yang berisi postingan. Ditempat ini kamu dapat melakukan berbagai perubahan terhadap post yang sudah ada atau menghapusnya. Oiya, untuk tipe post nanti diberikan 2 pilihan, antara featured dan post biasa. Kalau featured itu yang akan tampil di halaman paling atas, biasanya sih jumlahnya cuman 3 buah.
   folder: "content/blog"
   create: true
