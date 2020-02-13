@@ -11,7 +11,7 @@ collections:
 - name: "about" # Used in routes, e.g., /admin/collections/blog
   label: "About" # Used in the UI
   label_singular: 'About' # Used in the UI, ie: "New Post"
-    description: >
+  description: >
       Disini tempat naro biodata, kisah hidup atau apapun itulah... :D
   folder: "content/about"
   create: false
