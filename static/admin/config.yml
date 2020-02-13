@@ -43,3 +43,21 @@ collections:
       - {label: "Kategori", name: "categories", widget: "list", allow_add: true}
       - {label: "body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["new"]}
+
+- name: "contact" # Used in routes, e.g., /admin/collections/blog
+  label: "Contacts" # Used in the UI
+  label_singular: 'contact' # Used in the UI, ie: "New Post"
+  description: >
+      Halaman yang berisi informasi kontak macam nomor hp dan lain2
+  folder: "content/contact"
+  create: false
+  slug: "{{year}}-{{month}}-{{slug}}"
+  file: "content/about/_index.md"
+  fields:
+      - label: "type"
+        name: "type"
+        widget: "select"
+        options: ["contact"]
+      - {label: "Judul", name: "title", widget: "string"}
+      - {label: "Tanggal", name: "date", widget: "datetime"}
+      - {label: "body", name: "body", widget: "markdown"}

@@ -105,7 +105,7 @@ copyright = "| @2019 [3language] (https://3language.co) All Rights Reserved |"
 [params.newsletter]
 enable = true
 title = "Join Our Newsletter"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero"
+content = "Dapatkan informasi terbaru mengenai post kami."
 
 ############################# social site ########################
 [[params.social]]
