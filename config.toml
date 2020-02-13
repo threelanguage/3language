@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://gallant-shockley-351838.netlify.com/"
+baseURL = "https://3language.netlify.com/"
 languageCode = "en-us"
 title = "3 Language | Learn learn and learn"
 theme = "liva-hugo"
