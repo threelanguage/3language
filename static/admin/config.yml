@@ -4,7 +4,7 @@ backend:
 
 media_folder: "static/images/"
 media_library:
-  name: about
+  name: uploads
 publish_mode: editorial_workflow
 
 collections:
@@ -35,6 +35,6 @@ collections:
       - {label: "Judul", name: "title", widget: "string"}
       - {label: "Tanggal", name: "date", widget: "datetime"}
       - {label: "Gambar", name: "image", widget: "image"}
-      - {label: "Kategori", name: "categories", widget: "string"}
+      - {label: "Kategori", name: "categories", widget: "list", allow_add: true}
       - {label: "body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["new"]}
