@@ -3,6 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "static/images/"
+public_folder: "/images"
 media_library:
   name: uploads
 publish_mode: editorial_workflow
