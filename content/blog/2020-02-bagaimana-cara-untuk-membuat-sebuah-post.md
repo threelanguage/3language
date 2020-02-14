@@ -14,7 +14,7 @@ tags:
 
 3. Klik tombol **"New Post"**
 
-![New post](/images/Capture.PNG "GambarNewPost")
+![New post](/images/Capture.PNG?nf_resize=fit&w=300)
 
 
 
@@ -22,7 +22,7 @@ tags:
 
 
 
-![](/images/Capture2.PNG)
+![](/images/Capture2.PNG?nf_resize=fit&w=300)
 
 5. Pada bagian **"Type",** terdapat 2 tipe, yaitu featured dan post biasa.
 
@@ -30,27 +30,27 @@ tags:
 >
 > **Pilih post** jika kamu mau postnya sekedar jadi postingan biasa. Pengaturan umumnya sih pakai yang ini.
 
-![](/images/Capture3.PNG)
+![](/images/Capture3.PNG?nf_resize=fit&w=300)
 
 6. Setelah itu tinggal isikan gambar atau thumbnail, tanggal, dan judul.
 
 7. Isikan kategori yang sesuai dengan postingan anda (cukup 1 aja). ini gunanya sebagai pengkategorian untuk memudahkan viewer blog dalam mencari sebuah konten. Nanti bakalan muncul pada halaman utama pada bagian bawah web (untuk versi desktop/pc)
 
-![](/images/Capture5.PNG)
+![](/images/Capture5.PNG?nf_resize=fit&w=300)
 
 8. Pada bagian paling bawah ada menu **tags**, nah menu ini gunanya nanti bakalan muncul di halaman utama tepatnya di samping kanan (untuk versi desktop)
 
-![](/images/Capture4.PNG)
+![](/images/Capture4.PNG?nf_resize=fit&w=300)
 
 
 
 9. Setelah itu, klik tombol **save.**
 
-![](/images/Capture6.PNG)
+![](/images/Capture6.PNG?nf_resize=fit&w=300)
 
 10. Selanjutnya, tombol **"set status"** akan muncul, klik dan ubah dari *draft* menjadi *ready*. Lalu tekan tombol *publish - publish now.*
 
-![](/images/Capture7.PNG)
+![](/images/Capture7.PNG?nf_resize=fit&w=300)
 
 11. Sekian tutorial kali ini, semoga bermanfaat :)
 
