@@ -9,18 +9,12 @@ tags:
   - new
 ---
 1. Pergi ke laman 3language.co/admin, 
-
 2. Login dan pilih collections yang bernama "Posts" 
-
 3. Klik tombol **"New Post"**
 
 ![New post](/images/Capture.PNG?nf_resize=fit&w=300)
 
-
-
 4. Setelah itu laman berikut akan tampil di layar kaca anda.
-
-
 
 ![](/images/Capture2.PNG?nf_resize=fit&w=300)
 
@@ -33,7 +27,6 @@ tags:
 ![](/images/Capture3.PNG?nf_resize=fit&w=300)
 
 6. Setelah itu tinggal isikan gambar atau thumbnail, tanggal, dan judul.
-
 7. Isikan kategori yang sesuai dengan postingan anda (cukup 1 aja). ini gunanya sebagai pengkategorian untuk memudahkan viewer blog dalam mencari sebuah konten. Nanti bakalan muncul pada halaman utama pada bagian bawah web (untuk versi desktop/pc)
 
 ![](/images/Capture5.PNG?nf_resize=fit&w=300)
@@ -41,8 +34,6 @@ tags:
 8. Pada bagian paling bawah ada menu **tags**, nah menu ini gunanya nanti bakalan muncul di halaman utama tepatnya di samping kanan (untuk versi desktop)
 
 ![](/images/Capture4.PNG?nf_resize=fit&w=300)
-
-
 
 9. Setelah itu, klik tombol **save.**
 
@@ -54,4 +45,4 @@ tags:
 
 11. Sekian tutorial kali ini, semoga bermanfaat :)
 
-Silahkan **hapus post** ini jika sudah mengerti, terima kasih.
+Silahkan **hapus post** atau **arsipkan post** ini jika sudah mengerti, terima kasih.
