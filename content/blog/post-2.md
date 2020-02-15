@@ -1,26 +1,16 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/featured-post/post-2.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "HTML & CSS"
+type: featured
+title: Coffee time
+date: 2019-10-29T04:07:47.000Z
+image: /images/post-6.jpg
+categories:
+  - HTML & CSS
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
-
-# post type
-type: "featured"
+  - Photos
+  - Game
+  - React
+  - Python
+  - New
 ---
 
 # Heading 1
