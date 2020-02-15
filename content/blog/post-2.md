@@ -2,7 +2,7 @@
 type: featured
 title: Coffee time
 date: 2019-10-29T04:07:47.000Z
-image: /images/post-6.jpg
+image: /images/8.jpg
 categories:
   - HTML & CSS
 tags:
