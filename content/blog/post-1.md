@@ -1,5 +1,5 @@
 ---
-type: featured
+type: post
 title: 10 Tips dan trik mengenai UX Copywriting
 date: 2019-10-29T04:07:47.000Z
 image: images/featured-post/post-1.jpg
