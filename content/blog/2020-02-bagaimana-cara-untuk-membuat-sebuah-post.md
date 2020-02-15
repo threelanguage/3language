@@ -2,7 +2,7 @@
 type: featured
 title: Bagaimana cara untuk membuat sebuah post?
 date: 2020-02-13T16:33:49.336Z
-image: /images/gambar.jpg
+image: /images/post-4.jpg
 categories:
   - Tutorial
 tags:
