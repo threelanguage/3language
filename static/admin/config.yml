@@ -16,6 +16,7 @@ collections:
   create: false
   slug: "{{slug}}"
   file: "content/about/about.md"
+  delete: false
   fields:
       - {label: "type", name: "type", widget: "hidden", default: "blog"}
       - {label: "Judul", name: "title", widget: "string"}
