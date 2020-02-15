@@ -20,7 +20,7 @@ tags:
 
 5. Pada bagian **"Type",** terdapat 2 tipe, yaitu featured dan post biasa.
 
-> **Pilih featured** jika kamu mau postnya berada di teratas pada halaman awal, (maksimal featured post 3 aja di website, jadi kalau mau nambah featured, ganti dulu tipe post yang featured sebelumnya. Btw aku juga ngga tau sih apa yg terjadi jika lebih dari 3). 
+> **Pilih featured** jika kamu mau postnya berada di teratas pada halaman awal.
 >
 > **Pilih post** jika kamu mau postnya sekedar jadi postingan biasa. Pengaturan umumnya sih pakai yang ini.
 
