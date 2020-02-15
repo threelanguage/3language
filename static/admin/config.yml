@@ -50,6 +50,7 @@ collections:
   description: >
       Halaman yang berisi informasi kontak macam nomor hp dan lain2
   folder: "content/contact"
+  delete: false
   create: false
   slug: "{{year}}-{{month}}-{{slug}}"
   file: "content/about/_index.md"
