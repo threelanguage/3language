@@ -5,7 +5,7 @@ title = "3 Language | Learn learn and learn"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "3language"
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
