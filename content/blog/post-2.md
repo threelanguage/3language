@@ -1,6 +1,6 @@
 ---
 type: featured
-title: Coffee time
+title: How to hold a cup of coffee
 date: 2019-10-29T04:07:47.000Z
 image: /images/8.jpg
 categories:
