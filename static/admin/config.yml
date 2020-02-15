@@ -4,8 +4,6 @@ backend:
 
 media_folder: "static/images"
 public_folder: "/images"
-media_library:
-  name: post
 publish_mode: editorial_workflow
 
 collections:
